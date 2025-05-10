@@ -7,7 +7,10 @@ Me chamo Letícia, tenho 18 anos e sou de Brasília. Atualmente estou cursando E
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/wletti_/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/letti-cardoso/)
 
+##
 
+
+![Letti's GitHub stats](https://github-readme-stats.vercel.app/api?username=LettiCardoso&theme=ambient_gradient&show_icons=true)
 
 ### 💡 Linguagens e Tecnologias
 <img 
@@ -29,6 +32,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-origi
 
 <br>
 <br>
+
 
 ##
 
